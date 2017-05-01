@@ -104,7 +104,7 @@ class App3 extends Component {
         <View style={styles.palco}>
           <Text style={styles.txtResultado}>{this.state.resultado}</Text>
 
-       <Icone escolha={this.state.escolhaComputador} jogador='Computador'></Icone>
+          <Icone escolha={this.state.escolhaComputador} jogador='Computador'></Icone>
           
           <Icone escolha={this.state.escolhaUsuario} jogador='Você'></Icone>
 

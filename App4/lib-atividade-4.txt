@@ -1,0 +1,7 @@
+npm install --save-dev babel-presete-es2015
+npm install --save-dev babel-preset-react
+npm install --save axios
+
+npm install axios
+npm install babel-preset-react
+npm install babel-preset-react

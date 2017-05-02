@@ -3,8 +3,8 @@ import { AppRegistry } from 'react-native';
 
 import App from './src/App';
 
-const App7 = () => (
+const app7 = () => (
   <App />
 );
 
-AppRegistry.registerComponent('App7', () => App7);
+AppRegistry.registerComponent('app7', () => app7);

@@ -1,14 +1,8 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 import Rotas from './src/Rotas';
 
-export default class app6 extends Component {
+export default class App6 extends Component {
   render() {
     return (
       <Rotas />
@@ -16,4 +10,4 @@ export default class app6 extends Component {
   }
 }
 
-AppRegistry.registerComponent('app6', () => app6);
+AppRegistry.registerComponent('App6', () => App6);

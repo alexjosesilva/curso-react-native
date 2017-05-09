@@ -1,4 +1,4 @@
-package com.app8;
+package com.clonewhatsapp;
 
 import android.app.Application;
 

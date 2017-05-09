@@ -11,6 +11,7 @@ class App extends Component {
 
     componentWillMount() {
 
+		/*
         firebase.initializeApp({
             apiKey: "AIzaSyDzaAtP3pS2EHo0rMxSvM8RGvUNlIJ9itw",
             authDomain: "whatsapp-clone-a1774.firebaseapp.com",
@@ -18,6 +19,17 @@ class App extends Component {
             projectId: "whatsapp-clone-a1774",
             storageBucket: "whatsapp-clone-a1774.appspot.com",
             messagingSenderId: "882014132004"
+        });
+		
+		*/
+		
+		firebase.initializeApp({
+            apiKey: "AIzaSyAm7KHhWoPhC1_KEZTQtzlTTsM0oSL_ap8",
+            authDomain: "whatsapclone-fff45.firebaseapp.com",
+            databaseURL: "https://whatsapclone-fff45.firebaseio.com",
+            projectId: "whatsapclone-fff45",
+            storageBucket: "whatsapclone-fff45.appspot.com",
+            messagingSenderId: "636448157714"
         });
     }
 

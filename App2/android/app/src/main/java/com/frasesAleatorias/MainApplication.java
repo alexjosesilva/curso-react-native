@@ -1,4 +1,4 @@
-package com.app2;
+package com.frasesAleatorias;
 
 import android.app.Application;
 

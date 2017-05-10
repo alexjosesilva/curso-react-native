@@ -1,4 +1,4 @@
-package com.app2;
+package com.frasesAleatorias;
 
 import com.facebook.react.ReactActivity;
 

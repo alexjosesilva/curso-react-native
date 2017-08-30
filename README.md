@@ -48,3 +48,6 @@ ATIVIDADE #App4: Listar
       npm install --save-dev babel-presente-es2015
       npm install --save-dev babel-preset-react
       npm install --save axios
+      
+      
+Apps hospedados no googleplay: https://play.google.com/store/search?q=alexjosesilva&hl=pt_BR
